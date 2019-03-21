@@ -1,0 +1,39 @@
+{
+  "name": "nobreak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "joi": "^14.3.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-nodesecurity": "^1.3.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-fp": "^2.3.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-security": "^1.4.0",
+    "eslint-plugin-standard": "^4.0.0",
+    "jest": "^23.6.0",
+    "nsp": "^3.1.0",
+    "snyk": "^1.50.0",
+    "sonarjs": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorsalgado/nobreak.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorsalgado/nobreak/issues"
+  },
+  "homepage": "https://github.com/vitorsalgado/nobreak#readme"
+}
